@@ -5,5 +5,5 @@
 # Detective Conan Special Volumes (Tokubetsuhen)
 ## Volume 01
 ### File 01 - [MangaDex](https://mangadex.org/chapter/5331e99a-5ef1-47d1-ad3f-9eaeb9ef1219/1) | [Imgur](https://imgur.com/gallery/XbpsPpO)
-### File 02 - Pending QC
+### File 02 - Final checks pending
 ### File 03 - TL Done
