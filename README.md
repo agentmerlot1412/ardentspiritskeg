@@ -9,4 +9,4 @@
 ## Volume 01
 ### File 01 - [MangaDex](https://mangadex.org/chapter/5331e99a-5ef1-47d1-ad3f-9eaeb9ef1219/1) | [Imgur](https://imgur.com/gallery/EuHdTHR)
 ### File 02 - [MangaDex](https://mangadex.org/chapter/74fcf5f7-c058-49b9-912d-f4310e750ffc/1) | [Imgur](https://imgur.com/gallery/2YGGTpk)
-### File 03 - ~~RAW~~ ~~TL~~ ~~TLC~~ ~~PR~~ ~~CL~~ RD TS QC
+### File 03 - ~~RAW~~ ~~TL~~ ~~TLC~~ ~~PR~~ ~~CL~~ RD(6/20) TS(8/20) QC
