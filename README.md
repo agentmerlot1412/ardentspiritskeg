@@ -11,3 +11,4 @@
 ### File 02 - [MangaDex](https://mangadex.org/chapter/74fcf5f7-c058-49b9-912d-f4310e750ffc/1) | [Imgur](https://imgur.com/gallery/2YGGTpk)
 ### File 03 - Pending Release
 ### File 04 - ~~RAW~~ TL(0/18) TLC PR CL RD TS QC
+### File 05 - ~~RAW~~ TL(0/18) TLC PR CL RD TS QC
