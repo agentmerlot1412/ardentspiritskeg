@@ -9,6 +9,6 @@
 ## Volume 01
 ### File 01 - [MangaDex](https://mangadex.org/chapter/5331e99a-5ef1-47d1-ad3f-9eaeb9ef1219/1) | [Imgur](https://imgur.com/gallery/EuHdTHR)
 ### File 02 - [MangaDex](https://mangadex.org/chapter/74fcf5f7-c058-49b9-912d-f4310e750ffc/1) | [Imgur](https://imgur.com/gallery/2YGGTpk)
-### File 03 - Pending Release
+### File 03 - [MangaDex](https://mangadex.org/chapter/215d1a38-d9c9-4925-92d8-75bb3db8033d/1) | [Imgur](https://imgur.com/gallery/iXeDgDL)
 ### File 04 - ~~RAW~~ TL(0/18) TLC PR CL RD TS QC
 ### File 05 - ~~RAW~~ TL(0/18) TLC PR CL RD TS QC
