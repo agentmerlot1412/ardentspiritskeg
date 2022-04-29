@@ -10,7 +10,7 @@
 ### File 1091 - [MangaDex](https://mangadex.org/chapter/d65c393a-66d1-4292-92ac-d44087824a94/1) | [Imgur](https://imgur.com/gallery/23SOxVQ)
 ## Volume 103
 ### File 1092 - [MangaDex](https://mangadex.org/chapter/0724b96a-0eb4-4238-9d4b-f8e55ec0ceaa/1) | [Imgur](https://imgur.com/gallery/s70zvaD)
-### File 1093 - ~~RAW~~ ~~TL~~ ~~TLC~~ ~~PR~~ ~~CL~~ RD TS QC
+### File 1093 - ~~RAW~~ ~~TL~~ ~~TLC~~ ~~PR~~ ~~CL~~ ~~RD~~ ~~TS~~ ~~QC~~
 # Detective Conan Special Volumes (Tokubetsuhen)
 ## Volume 01
 ### File 01 - [MangaDex](https://mangadex.org/chapter/5331e99a-5ef1-47d1-ad3f-9eaeb9ef1219/1) | [Imgur](https://imgur.com/gallery/EuHdTHR)
