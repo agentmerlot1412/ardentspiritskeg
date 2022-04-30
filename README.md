@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/937899943421681685/940824869929615380/unknown.png" width="600"/>
 
-# Detective Conan (Main Series) | [Mangadex](https://mangadex.org/title/7f30dfc3-0b80-4dcc-a3b9-0cd746fac005/detective-conan) | [Cubari](https://cubari.moe/read/gist/cmF3L2FnZW50bWVybG90MTQxMi9hcmRlbnRzcGlyaXRza2VnL21haW4vY3ViYXJpX21haW4uanNvbg/)
+# Detective Conan | [MangaDex](https://mangadex.org/title/7f30dfc3-0b80-4dcc-a3b9-0cd746fac005/detective-conan) | [Cubari](https://cubari.moe/read/gist/cmF3L2FnZW50bWVybG90MTQxMi9hcmRlbnRzcGlyaXRza2VnL21haW4vY3ViYXJpX21haW4uanNvbg/)
 ## Support us on [Ko-fi](https://ko-fi.com/ardentspiritskeg) - Funding to be used exclusively for buying early scans.
 ## Volume 102
 ### File 1087 - [MangaDex](https://mangadex.org/chapter/95f9bcb7-a434-49d0-b02d-9a3f39249a6c/1) | [Imgur](https://imgur.com/a/RyUSckM)
@@ -11,7 +11,7 @@
 ## Volume 103
 ### File 1092 - [MangaDex](https://mangadex.org/chapter/0724b96a-0eb4-4238-9d4b-f8e55ec0ceaa/1) | [Imgur](https://imgur.com/a/s70zvaD)
 ### File 1093 - [MangaDex](https://mangadex.org/chapter/5a3cf985-dff2-49a7-8b9d-eca8deeef448/1) | [Imgur](https://imgur.com/a/kzlezbE)
-# Detective Conan Special Volumes (Tokubetsuhen)
+# Detective Conan Tokubetsuhen | [MangaDex](https://mangadex.org/title/53ef0bb0-7620-40be-b282-177b71021222/detective-conan-special) | [Cubari](https://cubari.moe/read/gist/cmF3L2FnZW50bWVybG90MTQxMi9hcmRlbnRzcGlyaXRza2VnL21haW4vY3ViYXJpX3NwZWNpYWwuanNvbg/)
 ## Volume 01
 ### File 01 - [MangaDex](https://mangadex.org/chapter/5331e99a-5ef1-47d1-ad3f-9eaeb9ef1219/1) | [Imgur](https://imgur.com/a/EuHdTHR)
 ### File 02 - [MangaDex](https://mangadex.org/chapter/74fcf5f7-c058-49b9-912d-f4310e750ffc/1) | [Imgur](https://imgur.com/a/2YGGTpk)
