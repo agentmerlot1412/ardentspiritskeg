@@ -10,49 +10,56 @@
             "volume":"102",
             "groups":{
                 "Ardent Spirits Keg":"/proxy/api/imgur/chapter/RyUSckM/"
-            }
+            },
+            "last_updated":"1643877997"
         },
         "1088":{
             "title":"A Sweet Trap",
             "volume":"102",
             "groups":{
                 "Ardent Spirits Keg":"/proxy/api/imgur/chapter/Rp7zftz/"
-            }
+            },
+            "last_updated":"1646162231"
         },
         "1089":{
             "title":"The Half-Open Door",
             "volume":"102",
             "groups":{
                 "Ardent Spirits Keg":"/proxy/api/imgur/chapter/A616SJQ/"
-            }
+            },
+            "last_updated":"1646790547"
         },
         "1090":{
             "title":"The Truth Behind the Door",
             "volume":"102",
             "groups":{
                 "Ardent Spirits Keg":"/proxy/api/imgur/chapter/u5U3aIx/"
-            }
+            },
+            "last_updated":"1647463807"
         },
         "1091":{
             "title":"Crossover",
             "volume":"102",
             "groups":{
                 "Ardent Spirits Keg":"/proxy/api/imgur/chapter/23SOxVQ/"
-            }
+            },
+            "last_updated":"1649823195"
         },
         "1092":{
             "title":"New Stimulus",
             "volume":"103",
             "groups":{
                 "Ardent Spirits Keg":"/proxy/api/imgur/chapter/s70zvaD/"
-            }
+            },
+            "last_updated":"1650681911"
         },
         "1093":{
             "title":"Photogenic",
             "volume":"103",
             "groups":{
                 "Ardent Spirits Keg":"/proxy/api/imgur/chapter/kzlezbE/"
-            }
+            },
+            "last_updated":"1651210448"
         }
     }
 }
