@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/937899943421681685/940824869929615380/unknown.png" width="600"/>
 
-# Detective Conan (Main Series)
+# Detective Conan (Main Series) | [Mangadex](https://mangadex.org/title/7f30dfc3-0b80-4dcc-a3b9-0cd746fac005/detective-conan) | [Cubari](https://cubari.moe/read/gist/cmF3L2FnZW50bWVybG90MTQxMi9hcmRlbnRzcGlyaXRza2VnL21haW4vY3ViYXJpX21haW4uanNvbg/)
 ## Support us on [Ko-fi](https://ko-fi.com/ardentspiritskeg) - Funding to be used exclusively for buying early scans.
 ## Volume 102
 ### File 1087 - [MangaDex](https://mangadex.org/chapter/95f9bcb7-a434-49d0-b02d-9a3f39249a6c/1) | [Imgur](https://imgur.com/a/RyUSckM)
