@@ -85,6 +85,7 @@
 <thead>
   <tr>
     <th>#</th>
+    <th>*</th>
     <th>Title</th>
     <th colspan="2">Hyperlinks</th>
     <th>Progress</th>
@@ -93,6 +94,7 @@
 <tbody>
   <tr>
     <td><b>1</b></td>
+    <td>1</td>
     <td>The Man Who Vanished</td>
     <td><a href="https://mangadex.org/chapter/5331e99a-5ef1-47d1-ad3f-9eaeb9ef1219/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
     <td><a href="https://cubari.moe/read/gist/cmF3L2FnZW50bWVybG90MTQxMi9hcmRlbnRzcGlyaXRza2VnL21haW4vY3ViYXJpX3NwZWNpYWwuanNvbg/1/1/" target="_blank" rel="noopener noreferrer">Cubari</a></td>
@@ -100,6 +102,7 @@
   </tr>
   <tr>
     <td><b>2</b></td>
+    <td>2</td>
     <td>A Kidnapping</td>
     <td><a href="https://mangadex.org/chapter/74fcf5f7-c058-49b9-912d-f4310e750ffc/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
     <td><a href="https://cubari.moe/read/gist/cmF3L2FnZW50bWVybG90MTQxMi9hcmRlbnRzcGlyaXRza2VnL21haW4vY3ViYXJpX3NwZWNpYWwuanNvbg/2/1/" target="_blank" rel="noopener noreferrer">Cubari</a></td>
@@ -107,6 +110,7 @@
   </tr>
   <tr>
     <td><b>3</b></td>
+    <td>3</td>
     <td>Murderous Intent</td>
     <td><a href="https://mangadex.org/chapter/215d1a38-d9c9-4925-92d8-75bb3db8033d/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
     <td><a href="https://cubari.moe/read/gist/cmF3L2FnZW50bWVybG90MTQxMi9hcmRlbnRzcGlyaXRza2VnL21haW4vY3ViYXJpX3NwZWNpYWwuanNvbg/3/1/" target="_blank" rel="noopener noreferrer">Cubari</a></td>
@@ -114,6 +118,7 @@
   </tr>
   <tr>
     <td><b>4</b></td>
+    <td>4</td>
     <td>A Sudden Death</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
@@ -121,6 +126,7 @@
   </tr>
   <tr>
     <td><b>5</b></td>
+    <td>5</td>
     <td>The Haunted Building</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
@@ -128,6 +134,7 @@
   </tr>
   <tr>
     <td><b>6</b></td>
+    <td>6</td>
     <td>The Trump Card</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
@@ -135,6 +142,7 @@
   </tr>
   <tr>
     <td><b>7</b></td>
+    <td>7</td>
     <td>A Bank Robbery</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
@@ -142,6 +150,7 @@
   </tr>
   <tr>
     <td><b>8</b></td>
+    <td>8</td>
     <td>The Masterpiece Thief</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
@@ -149,10 +158,90 @@
   </tr>
   <tr>
     <td><b>9</b></td>
+    <td>9</td>
     <td>A Death by Poison</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
     <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+  </tr>
+</tbody>
+</table>
+
+## Volume 02
+<table>
+<thead>
+  <tr>
+    <th>#</th>
+    <th>*</th>
+    <th>Title</th>
+    <th colspan="2">Hyperlinks</th>
+    <th>Progress</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>10</b></td>
+    <td>1</td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>11</b></td>
+    <td>2</td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>12</b></td>
+    <td>3</td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>13</b></td>
+    <td>4</td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>14</b></td>
+    <td>5</td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>15</b></td>
+    <td>6</td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>16</b></td>
+    <td>7</td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>17</b></td>
+    <td>8</td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
   </tr>
 </tbody>
 </table>
