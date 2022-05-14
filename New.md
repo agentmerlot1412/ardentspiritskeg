@@ -76,6 +76,13 @@
     <td><a href="https://cubari.moe/read/gist/cmF3L2FnZW50bWVybG90MTQxMi9hcmRlbnRzcGlyaXRza2VnL21haW4vY3ViYXJpX21haW4uanNvbg/1093/1/" target="_blank" rel="noopener noreferrer">Cubari</a></td>
     <td>Released ✓</td>
   </tr>
+  <tr>
+    <td><b>1094</b></td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
+    <td>Waiting for WSS#27</td>
+  </tr>
 </tbody>
 </table>
 
