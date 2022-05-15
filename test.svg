@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
+        <iframe src="https://readthedocs.org/" height="200" width="300" title="Iframe Example"></iframe>
     </foreignObject>
 </svg>
