@@ -8,7 +8,7 @@
   <tr>
     <th>#</th>
     <th>Title</th>
-    <th colspan="2">Hyperlinks</th>
+    <th colspan="2">Links</th>
     <th>Progress</th>
   </tr>
 </thead>
@@ -57,7 +57,7 @@
   <tr>
     <th>#</th>
     <th>Title</th>
-    <th colspan="2">Hyperlinks</th>
+    <th colspan="2">Links</th>
     <th>Progress</th>
   </tr>
 </thead>
@@ -94,7 +94,7 @@
     <th>#</th>
     <th>*</th>
     <th>Title</th>
-    <th colspan="2">Hyperlinks</th>
+    <th colspan="2">Links</th>
     <th>Progress</th>
   </tr>
 </thead>
@@ -181,7 +181,7 @@
     <th>#</th>
     <th>*</th>
     <th>Title</th>
-    <th colspan="2">Hyperlinks</th>
+    <th colspan="2">Links</th>
     <th>Progress</th>
   </tr>
 </thead>
