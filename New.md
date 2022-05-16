@@ -8,8 +8,8 @@
 <tbody>
   <tr>
     <td><img src="https://cdn.discordapp.com/attachments/937899943421681685/940824869929615380/unknown.png" width="450"/></td>
-    <td><a href="#volume-102" target="_blank" rel="noopener noreferrer">V102</a><br><a href="#volume-103" target="_blank" rel="noopener noreferrer">V103</a></td>
-    <td><a href="#volume-01" target="_blank" rel="noopener noreferrer">SPV1</a><br><a href="#volume-02" target="_blank" rel="noopener noreferrer">SPV2</a></td>
+    <td><a href="#volume-102" target="_blank" rel="noopener noreferrer">V102 (1087-1091)</a><br><a href="#volume-103" target="_blank" rel="noopener noreferrer">V103 (1092-1093)</a></td>
+    <td><a href="#volume-01" target="_blank" rel="noopener noreferrer">SPV1 (01-09)</a><br><a href="#volume-02" target="_blank" rel="noopener noreferrer">SPV2 (10-17)</a></td>
   </tr>
 </tbody>
 </table>
