@@ -87,8 +87,8 @@
   <tr>
     <td><b>1094</b></td>
     <td>A Chance Encounter</td>
-    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td>Almost ready...</td>
+    <td><a href="https://mangadex.org/chapter/3674549c-8bf3-4962-9ebf-a12b743b51e4/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
+    <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>1095</b></td>
