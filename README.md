@@ -92,9 +92,9 @@
   </tr>
   <tr>
     <td><b>1095</b></td>
-    <td>🗿</td>
+    <td>The Three Ciphers</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <s>TL</s> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
   </tr>
 </tbody>
 </table>
@@ -139,7 +139,7 @@
     <td>4</td>
     <td>A Sudden Death</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <b><i>RD(11/18)</i></b> <s>TS</s> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <s>RD<s> <s>TS</s> <s>QC<s></td>
   </tr>
   <tr>
     <td><b>5</b></td>
