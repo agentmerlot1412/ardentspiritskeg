@@ -146,7 +146,7 @@
     <td>5</td>
     <td>The Haunted Building</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b><i>SCL</i></b> <s>TL</s> <s>TLC</s> <s>PR</s> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <b>CL(7/18)</b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
   </tr>
   <tr>
     <td><b>6</b></td>
