@@ -1,13 +1,13 @@
 <table>
 <thead>
   <tr>
-    <th><a href="https://mangadex.org/group/f2615f65-274c-4e2e-bf0c-847ee74621fa/ardent-spirits-keg" target="_blank" rel="noopener noreferrer">MangaDex</a> | <a href="https://ko-fi.com/ardentspiritskeg" target="_blank" rel="noopener noreferrer">Ko-fi</a> | <a href="#detective-conan" target="_blank" rel="noopener noreferrer">Jump to Main</a> | <a href="#detective-conan-tokubetsuhen" target="_blank" rel="noopener noreferrer">Jump to Special</a></th>
+    <th><a href="https://mangadex.org/group/f2615f65-274c-4e2e-bf0c-847ee74621fa/ardent-spirits-keg" target="_blank" rel="noopener noreferrer">MangaDex</a> | <a href="https://ko-fi.com/ardentspiritskeg" target="_blank" rel="noopener noreferrer">Ko-fi</a> | <a href="https://www.instagram.com/ardentspiritskeg/" target="_blank" rel="noopener noreferrer">Instagram</a> | <a href="#detective-conan" target="_blank" rel="noopener noreferrer">Jump to Main</a> | <a href="#detective-conan-tokubetsuhen" target="_blank" rel="noopener noreferrer">Jump to Special</a></th>
     <th colspan="2">Contents</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/937899943421681685/940824869929615380/unknown.png" width="450"/></td>
+    <td><img src="https://cdn.discordapp.com/attachments/937899943421681685/940824869929615380/unknown.png" width="480"/></td>
     <td><a href="#volume-102" target="_blank" rel="noopener noreferrer">V102 (1087-1091)</a><br><a href="#volume-103" target="_blank" rel="noopener noreferrer">V103 (1092-1102)</a></td>
     <td><a href="#volume-01" target="_blank" rel="noopener noreferrer">SPV1 (01-09)</a><br><a href="#volume-02" target="_blank" rel="noopener noreferrer">SPV2 (10-17)</a></td>
   </tr>
