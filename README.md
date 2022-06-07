@@ -94,7 +94,7 @@
     <td><b>1095</b></td>
     <td>The Three Ciphers</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <s>TL</s> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b></td>
   </tr>
 </tbody>
 </table>
