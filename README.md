@@ -94,13 +94,13 @@
     <td><b>1095</b></td>
     <td>The Three Ciphers</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <b>TS(15/16)</b> <b>RD(13/16)</b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <b>TS(15/16)</b> <b>RD(13/16)</b> <b>QC(4/16)<b></td>
   </tr>
   <tr>
     <td><b>1096</b></td>
     <td>The Secret of the Square</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <s>TL</s> <b><i>TLC</i></b> <b>PR(11/16)</b> <b><i>CL</i></b> <b>TS(11/16)</b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <s>TL</s> <b><i>TLC</i></b> <s>PR</s> <b><i>CL</i></b> <b>TS(11/16)</b> <b><i>RD</i></b> <b><i>QC</i></b></td>
   </tr>
 </tbody>
 </table>
