@@ -93,8 +93,8 @@
   <tr>
     <td><b>1095</b></td>
     <td>The Three Ciphers</td>
-    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td>Extraneous pages pending...</td>
+    <td><a href="https://mangadex.org/chapter/53d35e91-a90e-438a-99a8-74df914ac7a1/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
+    <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>1096</b></td>
