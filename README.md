@@ -94,7 +94,7 @@
     <td><b>1095</b></td>
     <td>The Three Ciphers</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <b>TS(15/16)</b> <b>RD(13/16)</b> <b>QC(4/16)<b></td>
+    <td>Extraneous pages pending...</td>
   </tr>
   <tr>
     <td><b>1096</b></td>
