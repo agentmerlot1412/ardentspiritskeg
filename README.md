@@ -100,7 +100,7 @@
     <td><b>1096</b></td>
     <td>The Secret of the Squares</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <b>TLC(6/16)</b> <s>PR</s> <s>CL</s> <b>TS(14/16)</b> <b>RD(6/16)</b> <b>QC(6/16)</b></td>
+    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <b>TS(14/16)</b> <b>RD(6/16)</b> <b>QC(6/16)</b></td>
   </tr>
 </tbody>
 </table>
