@@ -1,13 +1,14 @@
 <table>
 <thead>
   <tr>
-    <th><a href="https://mangadex.org/group/f2615f65-274c-4e2e-bf0c-847ee74621fa/ardent-spirits-keg" target="_blank" rel="noopener noreferrer">MangaDex</a> | <a href="https://ko-fi.com/ardentspiritskeg" target="_blank" rel="noopener noreferrer">Ko-fi</a> | <a href="https://www.instagram.com/ardentspiritskeg/" target="_blank" rel="noopener noreferrer">Instagram</a> | <a href="#detective-conan" target="_blank" rel="noopener noreferrer">Jump to Main</a> | <a href="#detective-conan-tokubetsuhen" target="_blank" rel="noopener noreferrer">Jump to Special</a></th>
+    <th colspan="2"><a href="https://mangadex.org/group/f2615f65-274c-4e2e-bf0c-847ee74621fa/ardent-spirits-keg" target="_blank" rel="noopener noreferrer">MangaDex</a> | <a href="https://ko-fi.com/ardentspiritskeg" target="_blank" rel="noopener noreferrer">Ko-fi</a> | <a href="https://www.instagram.com/ardentspiritskeg/" target="_blank" rel="noopener noreferrer">Instagram</a> | <a href="#detective-conan" target="_blank" rel="noopener noreferrer">Jump to Main</a> | <a href="#detective-conan-tokubetsuhen" target="_blank" rel="noopener noreferrer">Jump to Special</a></th>
     <th colspan="2">Contents</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/937899943421681685/940824869929615380/unknown.png" width="480"/></td>
+    <td><img src="https://cdn.discordapp.com/attachments/904691279001161830/987790817060069376/banner.png?size=4096" width="230"/></td>
+    <td><b>RAW</b> - Scans/Digitals obtained<br><b>SCL</b> - Scan Cleaning<br><b>TL</b> - Translation<br><b>TLC</b> - Translation Check<br><b>PR</b> - Proofread<br><b>CL</b> - Cleaning<br><b>TS</b> - Typesetting<br><b>RD</b> - Redrawing<br><b>QC</b> - Quality Check passed<br><b>EC</b> - Extraneous Content</td>
     <td><a href="#volume-102" target="_blank" rel="noopener noreferrer">V102 (1087-1091)</a><br><a href="#volume-103" target="_blank" rel="noopener noreferrer">V103 (1092-1102)</a></td>
     <td><a href="#volume-01" target="_blank" rel="noopener noreferrer">SPV1 (01-09)</a><br><a href="#volume-02" target="_blank" rel="noopener noreferrer">SPV2 (10-17)</a></td>
   </tr>
@@ -100,7 +101,7 @@
     <td><b>1096</b></td>
     <td>The Secret of the Squares</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <b>TS(15/16)</b> <b>RD(6/16)</b> <b>QC(6/16)</b></td>
+    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <b>TS(15/16)</b> <b>RD(15/16)</b> <b>QC(15/16)</b> <b>EC(0/3)</b></td>
   </tr>
 </tbody>
 </table>
@@ -152,35 +153,35 @@
     <td>5</td>
     <td>The Haunted Building</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <b>CL(7/18)</b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <b>CL(7/18)</b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>6</b></td>
     <td>6</td>
     <td>The Trump Card</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>SCL</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>7</b></td>
     <td>7</td>
     <td>A Bank Robbery</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>SCL</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>8</b></td>
     <td>8</td>
     <td>The Masterpiece Thief</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>9</b></td>
     <td>9</td>
     <td>A Death by Poison</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
@@ -202,56 +203,56 @@
     <td>1</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>11</b></td>
     <td>2</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>12</b></td>
     <td>3</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>13</b></td>
     <td>4</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>14</b></td>
     <td>5</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>15</b></td>
     <td>6</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>16</b></td>
     <td>7</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>17</b></td>
     <td>8</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b></td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
