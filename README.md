@@ -7,7 +7,7 @@
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/904691279001161830/987790817060069376/banner.png?size=4096" width="230"/></td>
+    <td><img src="https://cdn.discordapp.com/attachments/904691279001161830/987794271614664794/github.png?size=4096" width="230"/></td>
     <td><b>RAW</b> - Scans/Digitals obtained<br><b>SCL</b> - Scan Cleaning<br><b>TL</b> - Translation<br><b>TLC</b> - Translation Check<br><b>PR</b> - Proofread<br><b>CL</b> - Cleaning<br><b>TS</b> - Typesetting<br><b>RD</b> - Redrawing<br><b>QC</b> - Quality Check passed<br><b>EC</b> - Extraneous Content</td>
     <td><a href="#volume-102" target="_blank" rel="noopener noreferrer">V102 (1087-1091)</a><br><a href="#volume-103" target="_blank" rel="noopener noreferrer">V103 (1092-1102)</a></td>
     <td><a href="#volume-01" target="_blank" rel="noopener noreferrer">SPV1 (01-09)</a><br><a href="#volume-02" target="_blank" rel="noopener noreferrer">SPV2 (10-17)</a></td>
@@ -100,8 +100,14 @@
   <tr>
     <td><b>1096</b></td>
     <td>The Secret of the Squares</td>
+    <td><a href="https://mangadex.org/chapter/5aa77124-cd79-47e1-9864-79025e7a7ccb/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
+    <td>Released ✓</td>
+  </tr>
+  <tr>
+    <td><b>1097</b></td>
+    <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <b>TS(15/16)</b> <b>RD(15/16)</b> <b>QC(15/16)</b> <b>EC(0/3)</b></td>
+    <td>WSS#37 - 7/27</td>
   </tr>
 </tbody>
 </table>
@@ -210,7 +216,7 @@
     <td>2</td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>12</b></td>
