@@ -166,7 +166,7 @@
     <td>6</td>
     <td>The Trump Card</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>7</b></td>
