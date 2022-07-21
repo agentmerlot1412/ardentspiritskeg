@@ -107,7 +107,7 @@
     <td><b>1097</b></td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td>WSS#37 - 7/27</td>
+    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
@@ -159,7 +159,7 @@
     <td>5</td>
     <td>The Haunted Building</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <b>CL(7/18)</b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <s>TS</s> <b>RD(6/18)</b> <b>QC(2/18)</b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>6</b></td>
