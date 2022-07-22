@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td><b>1097</b></td>
-    <td>🗿</td>
+    <td>Leader</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>SCL</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><b><i>RAW</i></b> <s>SCL(N.A.)</s> <b>TL(2/16)</b> <b><i>TLC</i></b> <b>PR(2/16)</b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
