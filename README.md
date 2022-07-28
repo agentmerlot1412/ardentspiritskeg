@@ -112,6 +112,44 @@
 </tbody>
 </table>
 
+# Other Projects
+<table>
+<thead>
+  <tr>
+    <th>Project Title</th>
+    <th>🔗</th>
+    <th>Progress</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Over 100 Miracle Talk (Aoyama x Oda)</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><s>RAW</s> <s>SCL(N.A.)</s> <b>TL/TLC(0/14)</b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <s>RD</s> <b><i>QC</i></b></td>
+  </tr>
+  <tr>
+    <td>The Time-Bombed Skyscraper (File 1)</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><s>RAW</s> <b>SCL</b> <s>TL/TLC</s> <s>PR</s> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+  </tr>
+  <tr>
+    <td>The Time-Bombed Skyscraper (File 2)</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><s>RAW</s> <b>SCL</b> <b>TL/TLC</b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+  </tr>
+  <tr>
+    <td>The Time-Bombed Skyscraper (File 3)</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><s>RAW</s> <b>SCL</b> <b><i>TL/TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+  </tr>
+  <tr>
+    <td>The Time-Bombed Skyscraper (File 4)</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><s>RAW</s> <b>SCL</b> <b><i>TL/TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+  </tr>
+</tbody>
+</table>
+
 # Detective Conan Tokubetsuhen
 ### Read on [MangaDex](https://mangadex.org/title/53ef0bb0-7620-40be-b282-177b71021222/detective-conan-special)
 ## Volume 01
