@@ -107,7 +107,7 @@
     <td><b>1097</b></td>
     <td>-</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL(N.A.)</s> <b>TL(8/16)</b> <s>TLC(N.A.)</s> <b>PR(2/16)</b> <s>CL</s> <s>RD</s> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>SCL(N.A.)</s> <s>TL</s> <s>TLC(N.A.)</s> <b>PR(?/16)</b> <s>CL</s> <s>RD</s> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>1098</b></td>
