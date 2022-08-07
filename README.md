@@ -107,7 +107,7 @@
     <td><b>1097</b></td>
     <td>The Chaperones</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC(N.A.)</s> <s>PR</s> <s>CL</s> <s>RD</s> <s>TS</s> <s>QC1</s> <b>QC2</b> <b>EC(0/1)</b></td>
+    <td><s>RAW</s> <s>TL</s> <s>TLC(N.A.)</s> <s>PR</s> <s>CL</s> <s>RD</s> <s>TS</s> <s>QC1</s> <b>QC2</b> <s>EC</s></td>
   </tr>
   <tr>
     <td><b>1098</b></td>
