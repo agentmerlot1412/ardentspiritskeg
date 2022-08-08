@@ -106,7 +106,7 @@
   <tr>
     <td><b>1097</b></td>
     <td>The Chaperones</td>
-    <td><a href="https://mangadex.org/chapter/7f30dfc3-0b80-4dcc-a3b9-0cd746fac005/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
+    <td><a href="https://mangadex.org/chapter/8c206112-b02c-4d1a-ac28-9d1ddb5c7326/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
     <td>Released ✓</td>
   </tr>
   <tr>
