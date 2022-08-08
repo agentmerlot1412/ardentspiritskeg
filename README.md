@@ -106,8 +106,8 @@
   <tr>
     <td><b>1097</b></td>
     <td>The Chaperones</td>
-    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC(N.A.)</s> <s>PR</s> <s>CL</s> <s>RD</s> <s>TS</s> <s>QC1</s> <b>QC2</b> <s>EC</s></td>
+    <td><a href="https://mangadex.org/chapter/7f30dfc3-0b80-4dcc-a3b9-0cd746fac005/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
+    <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>1098</b></td>
