@@ -113,13 +113,13 @@
     <td><b>1098</b></td>
     <td>The Beach House</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC(N.A.)</s> <b>PR(0/16)</b> <s>CL</s> <s>RD</s> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <s>TLC(N.A.)</s> <b>PR(11/16)</b> <s>CL</s> <s>RD</s> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>1099</b></td>
-    <td>-</td>
+    <td>Stay Back</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b><i>TL</i></b> <s>TLC(N.A.)</s> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <b>TL(9/16)</b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
