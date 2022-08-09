@@ -113,13 +113,13 @@
     <td><b>1098</b></td>
     <td>The Beach House</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC(N.A.)</s> <b>PR(11/16)</b> <s>CL</s> <s>RD</s> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <s>RD</s> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>1099</b></td>
     <td>Stay Back</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b>TL(9/16)</b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <b><i>TLC</i></b> <b>PR(0/16)</b> <b><i>CL</i></b> <b><i>RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
@@ -137,7 +137,7 @@
   <tr>
     <td>Over 100 Miracle Talk (Aoyama x Oda)</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL(N.A.)</s> <b>TL/TLC(0/14)</b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <s>RD</s> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>SCL(N.A.)</s> <b>TL/TLC(2/14)</b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <s>RD</s> <b><i>QC</i></b></td>
   </tr>
   <tr>
     <td>The Time-Bombed Skyscraper (File 1)</td>
