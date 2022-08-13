@@ -113,7 +113,7 @@
     <td><b>1098</b></td>
     <td>The Beach House</td>
     <td><a href="https://mangadex.org/chapter/b45a2240-cc08-41bc-8291-5ff0e315db77/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL/RD</s> <s>TS</s> <s>QC1</s> <b>QC2</b> <b><i>EC</i></b></td>
+    <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>1099</b></td>
