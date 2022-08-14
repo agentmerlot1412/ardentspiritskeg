@@ -1,7 +1,7 @@
 <table>
 <thead>
   <tr>
-    <th colspan="2"><a href="https://mangadex.org/group/f2615f65-274c-4e2e-bf0c-847ee74621fa/ardent-spirits-keg" target="_blank" rel="noopener noreferrer">MangaDex</a> | <a href="https://ko-fi.com/ardentspiritskeg" target="_blank" rel="noopener noreferrer">Ko-fi</a> | <a href="https://www.instagram.com/ardentspiritskeg/" target="_blank" rel="noopener noreferrer">Instagram</a> | <a href="#detective-conan" target="_blank" rel="noopener noreferrer">Jump to Main</a> | <a href="#detective-conan-tokubetsuhen" target="_blank" rel="noopener noreferrer">Jump to Special</a></th>
+    <th colspan="2"><a href="https://mangadex.org/group/f2615f65-274c-4e2e-bf0c-847ee74621fa/ardent-spirits-keg" target="_blank" rel="noopener noreferrer">MangaDex</a> | <a href="#detective-conan" target="_blank" rel="noopener noreferrer">Jump to Main</a> | <a href="#detective-conan-tokubetsuhen" target="_blank" rel="noopener noreferrer">Jump to Special</a> | <a href="#other-projects" target="_blank" rel="noopener noreferrer">Jump to Others</a></th>
     <th colspan="2">Contents</th>
   </tr>
 </thead>
@@ -119,7 +119,7 @@
     <td><b>1099</b></td>
     <td>Fall Back</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <b><i>TLC</i></b> <s>PR</s> <b>CL/RD</b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <b><i>TLC</i></b> <s>PR</s> <s>CL/RD</s> <b>TS</b> <b>QC</b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
