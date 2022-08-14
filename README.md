@@ -8,7 +8,7 @@
 <tbody>
   <tr>
     <td><img src="https://cdn.discordapp.com/attachments/904691279001161830/987794271614664794/github.png?size=4096" width="230"/></td>
-    <td><b>RAW</b> - Scans/Digitals obtained<br><b>SCL</b> - Scan Cleaning<br><b>TL</b> - Translation<br><b>TLC</b> - Translation Check<br><b>PR</b> - Proofread<br><b>CL</b> - Cleaning<br><b>TS</b> - Typesetting<br><b>RD</b> - Redrawing<br><b>QC</b> - Quality Check passed<br><b>EC</b> - Extraneous Content</td>
+    <td><b>RAW</b> - Scans/Digitals obtained<br><b>SCL</b> - Scan Cleaning<br><b>TL</b> - Translation<br><b>TLC</b> - Translation Check<br><b>PR</b> - Proofread<br><b>CL</b> - Cleaning<br><b>RD</b> - Redrawing<br><b>TS</b> - Typesetting<br><b>QC</b> - Quality Check passed<br><b>US</b> - Upscaling<br><b>EC</b> - Extraneous Content</td>
     <td><a href="#volume-102" target="_blank" rel="noopener noreferrer">V102 (1087-1091)</a><br><a href="#volume-103" target="_blank" rel="noopener noreferrer">V103 (1092-1102)</a></td>
     <td><a href="#volume-01" target="_blank" rel="noopener noreferrer">SPV1 (01-09)</a><br><a href="#volume-02" target="_blank" rel="noopener noreferrer">SPV2 (10-17)</a></td>
   </tr>
@@ -119,7 +119,13 @@
     <td><b>1099</b></td>
     <td>Fall Back</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <b><i>TLC</i></b> <s>PR</s> <s>CL/RD</s> <b>TS</b> <b>QC</b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <b><i>TLC</i></b> <s>PR</s> <s>CL/RD</s> <b>TS(15/16)</b> <b>QC1(15/16)</b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>1100</b></td>
+    <td>🗿</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><b>WSS#44 - 9/28</b><br><b><i>RAW</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL/RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
