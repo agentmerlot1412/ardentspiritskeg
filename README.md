@@ -119,7 +119,7 @@
     <td><b>1099</b></td>
     <td>Fall Back</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <b><i>TLC</i></b> <s>PR</s> <s>CL/RD</s> <b>TS(15/16)</b> <b>QC1(15/16)</b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <b>TLC</b> <s>PR</s> <s>CL/RD</s> <s>TS</s> <s>QC1</s> <b>QC2</b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>1100</b></td>
