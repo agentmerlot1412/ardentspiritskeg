@@ -118,8 +118,8 @@
   <tr>
     <td><b>1099</b></td>
     <td>Fall Back</td>
-    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL/RD</s> <s>TS</s> <s>QC1</s> <s>QC2</s> <b><i>US</i></b> <s>EC</s></td>
+    <td><a href="https://mangadex.org/chapter/8f5bc34b-ce04-4d00-9d65-67cd88178241/1" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>1100</b></td>
@@ -215,7 +215,7 @@
     <td>5</td>
     <td>The Haunted Building</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <s>TS</s> <s>RD</s> <s>QC</s> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <s>TS</s> <s>RD</s> <s>QC</s> <b>EC</b></td>
   </tr>
   <tr>
     <td><b>6</b></td>
