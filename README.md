@@ -125,7 +125,7 @@
     <td><b>1100</b></td>
     <td>🗿</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b>WSS#44 - 9/28</b><br><b><i>RAW</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL/RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><b><i>RAW</i></b> <s>TL</s> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL/RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
