@@ -123,9 +123,9 @@
   </tr>
   <tr>
     <td><b>1100</b></td>
-    <td>🗿</td>
+    <td>Annihilation</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <s>TL</s> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL/RD</i></b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><b><i>RAW</i></b> <s>TL</s> <b>TLC<</b> <s>PR</s> <b>CL/RD</b> <b><i>TS</i></b> <b><i>QC</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@
   <tr>
     <td>Over 100 Miracle Talk (Aoyama x Oda)</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL(N.A.)</s> <b>TL/TLC(2/14)</b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <s>RD</s> <b><i>QC</i></b></td>
+    <td><s>RAW</s> <s>TL/TLC</s> <b>PR</b> <s>CL/RD</s> <b><i>TS</i></b> <b><i>QC</i></b></td>
   </tr>
   <tr>
     <td>The Time-Bombed Skyscraper (File 1)</td>
