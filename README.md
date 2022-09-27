@@ -206,7 +206,7 @@
   <tr>
     <td><b>4</b></td>
     <td>4</td>
-    <td>A Sudden Death</td>
+    <td>Sudden Death</td>
     <td><a href="https://mangadex.org/chapter/15f72e1e-601b-4eb2-b840-3a5ccb360f23/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
     <td>Released ✓</td>
   </tr>
@@ -214,8 +214,8 @@
     <td><b>5</b></td>
     <td>5</td>
     <td>The Haunted Building</td>
-    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>SCL</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <s>TS</s> <s>RD</s> <s>QC</s> <b>EC</b></td>
+    <td><a href="https://mangadex.org/chapter/4d726b20-d06d-49c4-b13a-9472e91ed6a4/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
+    <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>6</b></td>
