@@ -125,7 +125,7 @@
     <td><b>1100</b></td>
     <td>Annihilation</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL/RD</s> <s>TS</s> <b><i>QC</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><b><i>RAW</i></b> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL/RD</s> <s>TS</s> <s>QC1</s> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
