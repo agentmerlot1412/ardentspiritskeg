@@ -136,7 +136,7 @@
     <td><b>1102</b></td>
     <td>-</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><b><i>RAW</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
