@@ -17,7 +17,6 @@
 
 # Detective Conan
 ### Read on [MangaDex](https://mangadex.org/title/7f30dfc3-0b80-4dcc-a3b9-0cd746fac005/detective-conan)
-### Support us on [Ko-fi](https://ko-fi.com/ardentspiritskeg) - Funding to be used exclusively for buying early scans.
 ## Volume 102
 <table>
 <thead>
@@ -123,9 +122,21 @@
   </tr>
   <tr>
     <td><b>1100</b></td>
-    <td>Annihilation</td>
+    <td>Evanesce</td>
+    <td><a href="https://mangadex.org/chapter/6ecb4c26-c1cf-4b08-9415-45c7d6981868/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
+    <td>Released ✓</td>
+  </tr>
+  <tr>
+    <td><b>1101</b></td>
+    <td>-</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL/RD</s> <s>TS</s> <s>QC1</s> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+  </tr>
+  <tr>
+    <td><b>1102</b></td>
+    <td>-</td>
+    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
+    <td><s>RAW</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
