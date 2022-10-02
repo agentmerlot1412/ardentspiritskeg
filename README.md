@@ -122,15 +122,15 @@
   </tr>
   <tr>
     <td><b>1100</b></td>
-    <td>Evanesce</td>
+    <td>The Evanescence</td>
     <td><a href="https://mangadex.org/chapter/6ecb4c26-c1cf-4b08-9415-45c7d6981868/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
     <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>1101</b></td>
-    <td>-</td>
+    <td>The Search</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <s>TL</s> <b><i>TLC</i></b> <s>PR</s> <b>CL(15/16)</b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
   <tr>
     <td><b>1102</b></td>
