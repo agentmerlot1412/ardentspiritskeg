@@ -154,13 +154,13 @@
 <tbody>
   <tr>
     <td><b>01</b></td>
-    <td>Along came a culprit</td>
+    <td>Along Came a Culprit</td>
     <td><a href="https://github.com/agentmerlot1412/ardentspiritskeg/blob/main/Hannin%20no%20Hanzawa-san/hanzawa01_en_ask.ass" target="_blank" rel="noopener noreferrer">GitHub</a></td>
     <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>02</b></td>
-    <td>Encountering people is such a mysterious thing</td>
+    <td>Encountering People Is Such a Mysterious Thing</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿</a></td>
     <td>Waiting...</td>
   </tr>
