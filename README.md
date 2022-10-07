@@ -129,14 +129,14 @@
   <tr>
     <td><b>1101</b></td>
     <td>The Search</td>
-    <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <s>TL</s> <s>TLC</s> <s>PR</s> <s>CL</s> <s>TS</s> <s>RD</s> <s>QC1</s> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><a href="https://mangadex.org/chapter/da3f08fa-900c-42fc-870d-e96d08cd46c0/1" target="_blank" rel="noopener noreferrer">MangaDex</a></td>
+    <td>Released ✓</td>
   </tr>
   <tr>
     <td><b>1102</b></td>
     <td>-</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><b><i>RAW</i></b> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <b><i>CL</i></b> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
