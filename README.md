@@ -136,7 +136,7 @@
     <td><b>1102</b></td>
     <td>-</td>
     <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">🗿🗿🗿</a></td>
-    <td><s>RAW</s> <b><i>TL</i></b> <b><i>TLC</i></b> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
+    <td><s>RAW TL TLC</s> <b><i>PR</i></b> <s>CL</s> <b><i>TS</i></b> <b><i>RD</i></b> <b><i>QC1</i></b> <b><i>QC2</i></b> <b><i>US</i></b> <b><i>EC</i></b></td>
   </tr>
 </tbody>
 </table>
@@ -155,7 +155,7 @@
   <tr>
     <td><b>01</b></td>
     <td>Along Came a Culprit</td>
-    <td><a href="https://github.com/agentmerlot1412/ardentspiritskeg/blob/main/Hannin%20no%20Hanzawa-san/hanzawa01_en_ask.ass" target="_blank" rel="noopener noreferrer">GitHub</a></td>
+    <td><a href="https://nyaa.si/view/1588805" target="_blank" rel="noopener noreferrer">Nyaa</a> | <a href="https://github.com/agentmerlot1412/ardentspiritskeg/blob/main/Hannin%20no%20Hanzawa-san/hanzawa01_en_ask.ass" target="_blank" rel="noopener noreferrer">GitHub</a></td>
     <td>Released ✓</td>
   </tr>
   <tr>
